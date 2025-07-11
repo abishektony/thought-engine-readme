@@ -42,13 +42,6 @@ _If you used a specific library, API, or backend (e.g., Supabase, Firebase, Fram
 
 ---
 
-## 📷 Screenshots
-
-> You can add screenshots here by uploading images to the repo and referencing them like:
-> `![Homepage](./screenshots/homepage.png)`
-
----
-
 ## 📈 Future Improvements
 
 - 📝 User accounts and saved sessions
@@ -67,8 +60,7 @@ Have ideas to improve ThoughtEngine? Feel free to fork the repo, submit a pull r
 ## 🧑‍💻 Author
 
 Built with ❤️ by [A.P. Abishek Tony](https://github.com/abishektony)  
-Connect on [LinkedIn](https://www.linkedin.com/in/abishek-tony/)  
-Portfolio: [abishektony.me](https://abishektony.me)
+Connect on [LinkedIn](https://www.linkedin.com/in/abishek-tony/)
 
 ---
 
